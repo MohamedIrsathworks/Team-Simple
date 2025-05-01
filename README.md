@@ -1,7 +1,7 @@
 # Team-Simple
 This is a full-stack project developed by our team for the subject Full Stack Development. It demonstrates the use of MongoDB, Express.js, React.js, and Node.js (MERN stack) to build a team management web application
 
-## 📌 Project Introduction
+# 📌 Project Introduction
 
 This is a MERN stack web app that allows users to:
 - Add new team members
@@ -9,8 +9,7 @@ This is a MERN stack web app that allows users to:
 - View detailed information of each member
 ---
 
-## ⚙️ Installation Steps
-
+# ⚙️ Installation Steps
 ### 1. Clone the Repository
 git clone https://github.com/MohamedIrsathworks/Team-Simple.git
 cd Team-Simple
@@ -28,4 +27,4 @@ cd frontend
 npm install
 npm start
 
-### NOW ITS ALL GOOD TO GO... Open your browser and go to: http://localhost:3000
+# NOW ITS ALL GOOD TO GO... Open your browser and go to: http://localhost:3000
