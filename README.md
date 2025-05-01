@@ -7,7 +7,6 @@ This is a MERN stack web app that allows users to:
 - Add new team members
 - View all members based on group
 - View detailed information of each member
----
 
 # ⚙️ Installation Steps
 ### 1. Clone the Repository
