@@ -1,0 +1,77 @@
+.form-container {
+    max-width: 700px;
+    margin: 2rem auto;
+    background: #ffffff;
+    border-radius: 12px;
+    padding: 2rem 2.5rem;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 1.5rem;
+    color: #2c3e50;
+  }
+  
+  .member-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .member-form label {
+    font-weight: 600;
+    margin: 0.8rem 0 0.3rem;
+    color: #34495e;
+  }
+  
+  .member-form input[type="text"],
+  .member-form input[type="email"],
+  .member-form input[type="url"],
+  .member-form input[type="file"],
+  .member-form textarea {
+    padding: 0.6rem 0.75rem;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 0.95rem;
+    width: 100%;
+  }
+  
+  .member-form textarea {
+    resize: vertical;
+    min-height: 80px;
+  }
+  
+  .member-form input[type="file"] {
+    border: none;
+    padding: 0.5rem 0;
+  }
+  
+  button[type="submit"] {
+    margin-top: 1.5rem;
+    padding: 0.8rem;
+    font-size: 1rem;
+    font-weight: bold;
+    background-color: #3498db;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #2980b9;
+  }
+  .form-message {
+    margin-top: 1rem;
+    text-align: center;
+    font-weight: bold;
+    color: green;
+  }
+  
+  .form-message.error {
+    color: red;
+  }
+  
+  
