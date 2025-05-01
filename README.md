@@ -8,7 +8,6 @@ This is a MERN stack web app that allows users to:
 - View all members based on group
 - View detailed information of each member
 
-3000
 
 # 🛠 API Endpoints
 Here are the available API endpoints for the backend:
