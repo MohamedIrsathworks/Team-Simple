@@ -26,4 +26,4 @@ cd frontend
 npm install
 npm start
 
-# NOW ITS ALL GOOD TO GO... Open your browser and go to: http://localhost:3000
+### NOW ITS ALL GOOD TO GO... Open your browser and go to: http://localhost:3000
