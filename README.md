@@ -12,19 +12,20 @@ This is a MERN stack web app that allows users to:
 ## ⚙️ Installation Steps
 
 ### 1. Clone the Repository
-git clone https://github.com/your-username/MERN_Team_Manager.git
-cd MERN_Team_Manager
+git clone https://github.com/MohamedIrsathworks/Team-Simple.git
+cd Team-Simple
 
 ### 2. MongoDB Connection
 open a terminal and start mongodb using command "Mongod"
 
-### 3. Backend Part
+### 3. Backend Setup
 cd backend
 npm install
 node server.js
 
-### 4. Frontend Part
+### 4. Frontend Setup
 cd frontend
 npm install
 npm start
 
+### NOW ITS ALL GOOD TO GO... Open your browser and go to: http://localhost:3000
