@@ -8,6 +8,59 @@ This is a MERN stack web app that allows users to:
 - View all members based on group
 - View detailed information of each member
 
+3000
+
+# 🛠 API Endpoints
+Here are the available API endpoints for the backend:
+
+### 1. Add a New Member (POST)
+URL: /api/members
+
+Method: POST
+
+Body Parameters:
+
+name (String) - Member's name
+
+role (String) - Member's role
+
+email (String) - Member's email
+
+hobbies (String) - Comma-separated hobbies
+
+internship (String) - Internship details
+
+aim (String) - Career aim
+
+skills (String) - Comma-separated skills
+
+github (String) - Github profile URL
+
+linkedin (String) - LinkedIn profile URL
+
+Files (optional):
+
+image (file) - Member's image
+
+resume (file) - Resume file
+
+certificate (file) - Certificate file
+
+### 2. Get All Members (GET)
+URL: /api/members
+
+Method: GET
+
+Response: List of all team members
+
+### 3. Get a Member by ID (GET)
+URL: /api/members/:id
+
+Method: GET
+
+Response: A single member's details based on the provided id
+
+
 # ⚙️ Installation Steps
 ### 1. Clone the Repository
 git clone https://github.com/MohamedIrsathworks/Team-Simple.git
